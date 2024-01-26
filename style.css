@@ -28,11 +28,6 @@ img.d{
     margin-bottom: 10px;
     margin-right: 10px;
     margin-left: 10px;
-    padding-left:5px;
-    padding-right:5px;
-    padding-top:5px;
-    padding-bottom:5px;
-
 }
 img.e{
     border-radius: 25px;
@@ -53,4 +48,5 @@ img.e{
 .slogan #slogan2 {
     margin:auto;
     font-family: Georgia;
+    margin-bottom:20px;
 }
