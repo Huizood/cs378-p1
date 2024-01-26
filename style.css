@@ -9,18 +9,18 @@ img.a{
 }
 img.b{
     border-radius: 25px;
-    width: 200px;
+    width: 150px;
     height: 150px;  
 }
 img.c{
     border-radius: 25px;
-    width: 200px;
+    width: 150px;
     height: 150px;  
    
 }
 img.d{
     border-radius: 25px;
-    width: 200px;
+    width: 150px;
     height: 150px;  
 }
 .container{
@@ -32,12 +32,13 @@ img.d{
 }
 img.e{
     border-radius: 25px;
-    width: 200px;
+    width: 150px;
     height: 150px;  
 }
 .slogan{
     font-family:cursive;
     margin-bottom:0.7px;
+    
     
 }
 .button{
@@ -48,8 +49,4 @@ img.e{
 .slogan #slogan2 {
     margin:auto;
     font-family: Georgia;
-
-}
-.cost1{
-    font-size:10px;
 }
