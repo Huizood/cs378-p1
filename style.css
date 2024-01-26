@@ -1,3 +1,60 @@
-body {
-    color: hotpink;
+
+h1{
+   
+    font-family: Courier New;
+    text-align: center;
+    padding:20px
+
+}
+img.a{
+     vertical-align:baseline;
+}
+img.b{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    width: 200px;
+    height: 150px;  
+}
+img.c{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    width: 200px;
+    height: 150px;  
+}
+img.d{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    width: 200px;
+    height: 150px;  
+}
+img.e{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    width: 200px;
+    height: 150px;  
+}
+body{
+    margin:0;
+    padding:0;
+}
+#slogon{
+    font-family:cursive;
+    margin:auto;
+    line-height:0.7px;
+    text-align:center;
+    
+}
+.button{
+   font-size:10px;
+   padding: 15px 32px;
+   border-radius:12px;
+}
+.slogon2 {
+    margin:auto;
+
+    padding-right: 30px;
+    padding-left: 350px;
+    font-family: Georgia;
+
+
 }
