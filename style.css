@@ -37,12 +37,10 @@ body{
     margin:0;
     padding:0;
 }
-#slogon{
+.slogan{
     font-family:cursive;
     margin:auto;
     line-height:0.7px;
-    padding-right: 30px;
-    padding-left: 100px;
     
 }
 .button{
