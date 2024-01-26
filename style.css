@@ -11,20 +11,17 @@ img.a{
 }
 img.b{
     border-radius: 25px;
-    border: 2px solid #73AD21;
     width: 200px;
     height: 150px;  
 }
 img.c{
     border-radius: 25px;
-    border: 2px solid #73AD21;
     width: 200px;
     height: 150px;  
    
 }
 img.d{
     border-radius: 25px;
-    border: 2px solid #73AD21;
     width: 200px;
     height: 150px;  
 }
@@ -40,7 +37,6 @@ img.e{
     margin-right: 10px;
     margin-left: 10px;
     border-radius: 25px;
-    border: 2px solid #73AD21;
     width: 200px;
     height: 150px;  
 }
@@ -48,6 +44,7 @@ img.e{
     font-family:cursive;
     margin:auto;
     line-height:0.7px;
+    text-align:center;
     
 }
 .button{
@@ -59,6 +56,7 @@ img.e{
     margin:auto;
     padding-left: 100px;
     font-family: Georgia;
+    text-align:center;
 
 
 }
