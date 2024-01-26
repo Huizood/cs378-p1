@@ -9,19 +9,22 @@ img.a{
 }
 img.b{
     border-radius: 25px;
-    width: 150px;
-    height: 150px;  
+    max-height:100%;
+    max-width:100%;
+    object-fit:scale-down;
 }
 img.c{
     border-radius: 25px;
-    width: 150px;
-    height: 150px;  
+    max-height:100%;
+    max-width:100%;
+    object-fit:scale-down;
    
 }
 img.d{
     border-radius: 25px;
-    width: 150px;
-    height: 150px;  
+    max-height:100%;
+    max-width:100%;
+    object-fit:scale-down;
 }
 .container{
     margin-top: 10px;
@@ -31,8 +34,9 @@ img.d{
 }
 img.e{
     border-radius: 25px;
-    width: 150px;
-    height: 150px;  
+    max-height:100%;
+    max-width:100%;
+    object-fit:scale-down; 
 }
 .slogan{
     font-family:cursive;
@@ -49,4 +53,20 @@ img.e{
     margin:auto;
     font-family: Georgia;
     margin-bottom:20px;
+}
+.col-4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.col-6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
