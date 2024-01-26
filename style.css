@@ -28,7 +28,11 @@ img.d{
     margin-bottom: 10px;
     margin-right: 10px;
     margin-left: 10px;
-    padding-left:10px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:5px;
+    padding-bottom:5px;
+
 }
 img.e{
     border-radius: 25px;
@@ -38,7 +42,7 @@ img.e{
 .slogan{
     font-family:cursive;
     margin-bottom:0.7px;
-    
+
     
 }
 .button{
