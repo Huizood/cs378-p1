@@ -41,7 +41,8 @@ body{
     font-family:cursive;
     margin:auto;
     line-height:0.7px;
-    text-align:center;
+    padding-right: 30px;
+    padding-left: 100px;
     
 }
 .button{
@@ -51,9 +52,8 @@ body{
 }
 .slogon2 {
     margin:auto;
-
     padding-right: 30px;
-    padding-left: 350px;
+    padding-left: 100px;
     font-family: Georgia;
 
 
