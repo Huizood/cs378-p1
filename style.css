@@ -1,10 +1,8 @@
 
 h1{
-   
     font-family: Courier New;
     text-align: center;
     padding:20px
-
 }
 img.a{
      vertical-align:baseline;
@@ -30,33 +28,28 @@ img.d{
     margin-bottom: 10px;
     margin-right: 10px;
     margin-left: 10px;
+    padding-left:10px;
 }
 img.e{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
     border-radius: 25px;
     width: 200px;
     height: 150px;  
 }
 .slogan{
     font-family:cursive;
-    margin:auto;
-    line-height:0.7px;
-    text-align:center;
+    margin-bottom:0.7px;
     
 }
 .button{
    font-size:10px;
-   padding: 15px 32px;
-   border-radius:12px;
+   padding: 5px 10px;
+   border-radius:8px;
 }
-.slogon2 {
+.slogan #slogan2 {
     margin:auto;
-    padding-left: 100px;
     font-family: Georgia;
-    text-align:center;
 
-
+}
+.cost1{
+    font-size:10px;
 }
