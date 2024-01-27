@@ -25,17 +25,17 @@ img.b{
    border-radius:8px;
    background-color:lightblue;
 }
-.col-7 #slogan2 {
+#slogan2 {
    
     font-family: Arial;
     padding-bottom:50px;
-    text-align: center;
+    text-align:center;
 }
-.col-7 #slogan1{
+#slogan1{
    font-family:cursive;
    color:lightgreen;
-   text-align: center;
    line-height:0.5px;
+   text-align:center;
 
 }
 .des{
