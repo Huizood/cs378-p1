@@ -9,9 +9,10 @@ img.a{
 }
 img.b{
     border-radius: 25px;
-    width:150px;
-    height:150px;
-    object-fit:cover;
+    max-width:100%;
+    max-height:100%;
+    object-fit:scale-down;
+
 }
 .container{
     margin-top: 5px;
